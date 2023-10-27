@@ -70,8 +70,10 @@ class _HomeBodyState extends State<HomeBody> with TickerProviderStateMixin {
             )
           ],
         ),
-        body: TabBarView(
-            controller: tabController,
-            children: <Widget>[ArtPage(), TourismePage(), BibiothequePage()]));
+        body: TabBarView(controller: tabController, children: const <Widget>[
+          ArtPage(),
+          TourismePage(),
+          BibiothequePage()
+        ]));
   }
 }
