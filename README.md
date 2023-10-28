@@ -2,19 +2,7 @@
  Repertoire pour le hacktoberfest Lome de l'équipe 8
 
 #CAHIER DES CHARGES
- 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 HAKTOBERFEST 2023 Togo 
 
