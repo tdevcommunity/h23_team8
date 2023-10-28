@@ -1,4 +1,4 @@
-![to8](https://github.com/tdevcommunity/h23_team8/assets/122926735/7459b5d0-8710-4266-b0d0-5c604aa87826)# h23_team8
+# h23_team8
  Repertoire pour le hacktoberfest Lome de l'équipe 8
 
 # Projet 4
