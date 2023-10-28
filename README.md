@@ -1,6 +1,182 @@
 # h23_team8
  Repertoire pour le hacktoberfest Lome de l'équipe 8
 
+#CAHIER DES CHARGES
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HAKTOBERFEST 2023 Togo 
+
+Groupe 8  
+
+Projet 4 
+
+ 
+
+ 
+
+​​Table des matières 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​​ 
+
+ 
+
+Les objectifs du projet : 
+
+ Objectif général 
+
+Ce projet vise à mettre en place un espace numérique dédié à la célébration et à la documentation de l’histoire et de la culture togolaises.  
+
+ Objectifs spécifiques 
+
+Les objectifs spécifiques visés par cet espace numérique sont les suivants : 
+
+Documenter et préserver l’histoire et la culture du Togo ; 
+
+faciliter l’accès à des informations culturelles pour les résidents et les touristes ; 
+
+promouvoir la richesse et la diversité culturelles du Togo. 
+
+Les cibles 
+
+Cette application web vise plus : 
+
+Les touristes ; 
+
+resident.es souhaitant se documenter sur l’histoire et la culture du Togo ; 
+
+apprenants ; 
+
+passionné de l’histoire et de la culture du Togo.  
+
+Le type d’application 
+
+Cet espace numérique sera la combinaison d’application web et mobile qui permettront aux différents utilisateurs d’avoir accès à des informations sur l’histoire et la culture du Togo. 
+
+Equipement cible 
+
+Ces applications seront accessibles depuis tout équipement disposant d’un navigateur web et les smartphones Android et IOS. 
+
+Périmètre du projet 
+
+Quelques spécifications concernant le périmètre du projet : 
+
+Cet espace numérique doit contenir des documentations historique (archives, documents, photographies, journaux etc.) ;  
+
+Cet espace numérique doit contenir des expositions culturelles virtuelles (art, musique, danse, cuisine, architecture, vêtements traditionnels) ; 
+
+Bibliothèque numérique (livres, manuscrits, poésie, littérature orale) ; 
+
+Promotion des événements culturels du pays ; 
+
+Carte de géolocalisation ; 
+
+Possibilité s’accéder à certaines informations hors ligne. 
+
+Description de l’espace numérique 
+
+L’application aura deux parties : une partie visiteur (web et mobile) et une partie administrateur. 
+
+Partie client 
+
+Web  
+
+Cette partie sera présentera un landing page puis les différentes fonctionnalités qu’offre le site : musé virtuel, bibliothèque numérique, évènements culturels, documentations historiques, sites touristiques. 
+
+Mobile 
+
+Cette partie sera destinée principalement à la navigation des utilisateurs vers des sites touristiques, des lieux de fêtes traditionnelles. Elle contiendra également les informations accessibles hors ligne comme les dates des fêtes traditionnelles, et quelques autres fonctionnalités disponibles dans la partie web.    
+
+ 
+
+Partie de l’administrateur 
+
+Cette partie servira à principalement suivre les statistiques d’utilisation des parties clients et à mettre à jour les informations. 
+
+Contraints techniques 
+
+Les contraintes techniques sont : 
+
+-un hébergeur web pour héberger l’application web ; 
+
+- un nom de domaine pour l’application web ; 
+
+- hébergement sur les stores mobile (App Store, Play Store). 
+
+ 
+
+Charte graphique 
+
+Code couleur :  
+
+Vert : #016147 rgb(1,97,71) 
+
+Jaune : #FFCE15 rbg(255,206,21) 
+
+Rouge : #D8434C rgb(216,67,76) 
+
+Blanc 
+
+Font : Poppins 
+
+Planning 
+
+Tâche 
+
+Durée 
+
+ 
+
+ 
+
+Total 
+
+8 jours 
+
+NB : il est possible que le calendrier de réalisation puisse être modifié 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
 # Projet 4
 ## Description/Contexte 
 Un espace numérique dédié à la célébration et à la documentation de l'histoire et de la culture togolaises.
