@@ -11,32 +11,8 @@ Groupe 8
 Projet 4 
 
  
-
- 
-
 ​​Table des matières 
 
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​ 
-
-​​ 
 
  
 
