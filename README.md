@@ -1,7 +1,5 @@
 # h23_team8
- Repertoire pour le hacktoberfest Lome de l'équipe 8
-
- Lien de l'hébergement web : togoculture.netlify.app
+ Repertoire pour le hacktoberfest Lome de l'équipe 8 (Lien de l'hébergement web : togoculture.netlify.app)
 
 #CAHIER DES CHARGES
 
@@ -15,16 +13,13 @@ Projet 4
  
 ​​Table des matières 
 
-
- 
-
 Les objectifs du projet : 
 
- Objectif général 
+ *Objectif général 
 
 Ce projet vise à mettre en place un espace numérique dédié à la célébration et à la documentation de l’histoire et de la culture togolaises.  
 
- Objectifs spécifiques 
+ *Objectifs spécifiques 
 
 Les objectifs spécifiques visés par cet espace numérique sont les suivants : 
 
@@ -34,7 +29,7 @@ faciliter l’accès à des informations culturelles pour les résidents et les 
 
 promouvoir la richesse et la diversité culturelles du Togo. 
 
-Les cibles 
+*Les cibles 
 
 Cette application web vise plus : 
 
@@ -46,17 +41,17 @@ apprenants ;
 
 passionné de l’histoire et de la culture du Togo.  
 
-Le type d’application 
+*Le type d’application 
 
 Cet espace numérique sera la combinaison d’application web et mobile qui permettront aux différents utilisateurs d’avoir accès à des informations sur l’histoire et la culture du Togo. 
 
-Equipement cible 
+*Equipement cible 
 
 Ces applications seront accessibles depuis tout équipement disposant d’un navigateur web et les smartphones Android et IOS. 
 
-Périmètre du projet 
+*Périmètre du projet 
 
-Quelques spécifications concernant le périmètre du projet : 
+*Quelques spécifications concernant le périmètre du projet : 
 
 Cet espace numérique doit contenir des documentations historique (archives, documents, photographies, journaux etc.) ;  
 
@@ -74,7 +69,7 @@ Description de l’espace numérique
 
 L’application aura deux parties : une partie visiteur (web et mobile) et une partie administrateur. 
 
-Partie client 
+**Partie client 
 
 Web  
 
@@ -134,15 +129,7 @@ NB : il est possible que le calendrier de réalisation puisse être modifié
 
  
 
- 
 
- 
-
- 
-
-
-
- 
 # Projet 4
 ## Description/Contexte 
 Un espace numérique dédié à la célébration et à la documentation de l'histoire et de la culture togolaises.
